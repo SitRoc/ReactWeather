@@ -11,7 +11,7 @@ var React = require('react');
 // Stateless function, this is only used when Components have only the render function
 var Examples = (props) => {
   return (
-    <h3>Examples.</h3>
+    <h3>Examples...</h3>
   )
 };
 
