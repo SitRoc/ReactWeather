@@ -5,6 +5,7 @@ var Main = require('Main');
 var Weather = require('Weather');
 var About = require('About');
 var Examples = require('Examples');
+var ErrorModal = require('ErrorModal');
 
 // Load foundations
 require('style!css!foundation-sites/dist/foundation.min.css');
