@@ -1,5 +1,3 @@
-
-
 var React = require('react');
 var {Link, IndexLink} = require('react-router');
 
